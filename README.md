@@ -1,9 +1,9 @@
 # RayTracer
 ### Scenes
-![scene1](https://github.com/a-mos/RayTracer/tree/master/Output/Out_1.jpg)
-![scene2](https://github.com/a-mos/RayTracer/tree/master/Output/Out_2.jpg)
-![scene3](https://github.com/a-mos/RayTracer/tree/master/Output/Out_3.jpg)
-![scene4](https://github.com/a-mos/RayTracer/tree/master/Output/Out_4.jpg)
+![scene1](/Output/Out_1.jpg)
+![scene2](/Output/Out_3.jpg)
+![scene3](/Output/Out_2.jpg)
+![scene4](/Output/Out_4.jpg)
 
 ### Compile:
 ```
