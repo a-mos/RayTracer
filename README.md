@@ -24,3 +24,9 @@ scene_number = {1, 2, 3, 4}
 * Distance Aided Ray Marching (Scene 3)
 * Path tracing (Scene 4)
 * Objects – sphere, cube, plane, triangle mesh, quadratic surface, fractal surface
+
+
+### References
+[1] https://github.com/ssloy/tinyraytracer/wiki  
+[2] https://www.kevinbeason.com/smallpt/  
+[3] https://www.scratchapixel.com/lessons/3d-basic-rendering/minimal-ray-tracer-rendering-simple-shapes  
